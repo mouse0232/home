@@ -1,37 +1,32 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "AcquisitionsIncorporated",
+    "name": "VPS测评",
+    "link": "https://url.baozheng.me/sq7l9d"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "icon": "BusinessTime",
+    "name": "时光",
+    "link": "https://moments.mouse0232.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "ChartPie",
+    "name": "行研",
+    "link": "https://url.baozheng.me/ge8qtl"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "Search",
+    "name": "IP查询",
+    "link": "https://myip.baozheng.me/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://tz.baozheng.me/"
+  },
+  {
+    "icon": "Tools",
+    "name": "开发工具",
+    "link": "https://ittools.baozheng.me/"
   }
 ]
