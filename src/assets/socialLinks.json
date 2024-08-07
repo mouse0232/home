@@ -1,38 +1,44 @@
 [
   {
-    "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "name": "WeChat",
+    "icon": "/images/icon/wechat.png",
+    "tip": "去 公众号 看看",
+    "url": "https://d.vpscp.top/wechat.png"
   },
   {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "name": "Weibo",
+    "icon": "/images/icon/weibo.png",
+    "tip": "去围观一下",
+    "url": "https://weibo.com/u/1448615692"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
     "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "url": "https://res.abeim.cn/api/qq/?qq=233939513"
+  },
+  {
+    "name": "小红书",
+    "icon": "/images/icon/xiaohongshu.png",
+    "tip": "当代年轻人最流行的",
+    "url": "https://www.xiaohongshu.com/user/profile/5c89a5040000000011021590"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "url": "mailto:i@mouse0232.com"
   },
   {
     "name": "Telegram",
     "icon": "/images/icon/telegram.png",
     "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "https://t.me/mouse_0232"
+  },
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/mouse0232"
   }
 ]
