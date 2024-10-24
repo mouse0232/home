@@ -18,6 +18,12 @@
     "url": "https://res.abeim.cn/api/qq/?qq=233939513"
   },
   {
+    "name": "Follow",
+    "icon": "/images/icon/follow.png",
+    "tip": "重塑我的信息输入系统",
+    "url": "https://app.follow.is/share/users/mouse0232"
+  },
+  {
     "name": "小红书",
     "icon": "/images/icon/xiaohongshu.png",
     "tip": "当代年轻人最流行的",
