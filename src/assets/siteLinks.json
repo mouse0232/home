@@ -7,7 +7,7 @@
   {
     "icon": "BusinessTime",
     "name": "时光",
-    "link": "https://moments.mouse0232.com/"
+    "link": "https://blog.mouse0232.com/"
   },
   {
     "icon": "ChartPie",
@@ -15,18 +15,8 @@
     "link": "https://url.baozheng.me/1sx7q4"
   },
   {
-    "icon": "Search",
-    "name": "IP查询",
-    "link": "https://myip.baozheng.me/"
-  },
-  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://tz.baozheng.me/"
-  },
-  {
-    "icon": "Tools",
-    "name": "开发工具",
-    "link": "https://ittools.baozheng.me/"
   }
 ]
