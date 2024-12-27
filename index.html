@@ -35,5 +35,16 @@
       <div style="text-align: center">请开启 JavaScript</div>
     </noscript>
     <script type="module" src="/src/main.js"></script>
+    <script src="https://lf-cdn.coze.cn/obj/unpkg/flow-platform/chat-app-sdk/1.1.0-beta.0/libs/cn/index.js"></script>
+      <script>
+          new CozeWebSDK.WebChatClient({
+            config: {
+              bot_id: '7451934922086563878',
+            },
+            componentProps: {
+              title: 'Coze',
+            },
+          });
+      </script>
   </body>
 </html>
