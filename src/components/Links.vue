@@ -69,6 +69,7 @@ const siteIcon = {
   Search,
   LaptopCode,
   Tools,
+  Robot,
 };
 
 // 链接跳转
