@@ -1,5 +1,10 @@
 [
   {
+    "icon": "Robot",
+    "name": "AI优选",
+    "link": "https://www.yxai.cc/"
+  },
+  {
     "icon": "BusinessTime",
     "name": "时光",
     "link": "https://blog.mouse0232.com/"
